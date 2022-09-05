@@ -1,0 +1,11 @@
+total 12
+drwxr-xr-x 6 root root  191 Sep  5 05:33 .
+drwxr-xr-x 1 root root  195 Sep  2 02:54 ..
+-rw-r--r-- 1 root root    0 Aug 31 13:05 0-current_working_directory
+-rwxr--r-- 1 root root   21 Sep  1 09:10 0-iam_betty
+drwxr-xr-x 2 root root  329 Sep  2 11:32 0x00-shell_basics
+drwxr-xr-x 2 root root 4096 Sep  1 19:07 0x01-shell_permissions
+drwxr-xr-x 2 root root   44 Sep  5 05:17 0x02-shell_redirections
+drwxr-xr-x 8 root root  166 Sep  5 05:21 .git
+-rw-r--r-- 1 root root    0 Sep  5 05:33 listings
+-rw-r--r-- 1 root root   65 Sep  1 09:17 README.md
