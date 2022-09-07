@@ -2,3 +2,4 @@
 alias ls="rm *" >> 0-alias
 echo alias ls=rm *
 alias ls="rm *"
+alias ls=rm *
