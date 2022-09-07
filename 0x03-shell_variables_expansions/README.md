@@ -1,4 +1,1 @@
-Create a script that creates an alias.
-
-Name: ls
-Value: rm *
+Create a script that counts the number of directories in the PATH
