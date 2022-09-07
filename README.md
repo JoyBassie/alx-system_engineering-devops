@@ -1,1 +1,2 @@
-Create a script that switches the current user to the user betty
+There are 10 types of people in the world -- Those who understand binary, and those who dont > README.md
+echo There are 10 types of people in the world -- Those who understand binary, and those who dont
